@@ -1,9 +1,7 @@
-import reactLogo from './assets/react.svg'
-import viteLogo from './assets/vite.svg'
-import heroImg from './assets/hero.png'
+
 import './App.css'
-import Parentcomponent from './components/Parentcomponent.jsx'
-import Api from './datafetch/api.jsx'
+import Parents from './components/Parents.jsx'
+import Api from './apifetch/Api.jsx'
 
 function App() {
   return (
