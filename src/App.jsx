@@ -10,7 +10,7 @@ function App() {
       
         <div>
           <h1>Get started</h1>
-          <Parentcomponent />
+          <Parentcomponent/>
           <Api />
           <p>
             Edit <code>src/App.jsx</code> and save to test <code>HMR</code>
