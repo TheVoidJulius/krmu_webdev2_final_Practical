@@ -1,7 +1,7 @@
 import Child from './Child.jsx';
 
 const Parent = () => {
-  const name = "pulkit";
+  const name = "pushkar";
   const version = "1.0.0";
   const age = 19;
 
