@@ -1,6 +1,6 @@
 
 import './App.css'
-import Parents from './components/Parents.jsx'
+import Parentcomponent from './components/Parents.jsx'
 import Api from './apifetch/Api.jsx'
 
 function App() {
